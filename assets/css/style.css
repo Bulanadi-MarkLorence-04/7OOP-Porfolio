@@ -1,107 +1,15 @@
+---
+---
 
-body {
-  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/eto_na_talaga%5B1%5D.gif?raw=true");
-  background-position: center; 
-  background-size: 1900px 1600px; 
-  min-height: 1080px;
-}
-
+@import "{{ site.theme }}";  // keep this line to load the Architect theme
 
 header {
-  font-size: 16px; 
-  text-align: center; 
-}
-
-header h1 {
- 
-  color: #4A53A6; 
-  font-size: 2.5em;
-  margin-bottom: 5px;
-  text-shadow: 0 0 15px rgba(74, 83, 166, 0.7);
-}
-
-header h2 {
-  color: #0077b6; 
-  font-size: 1.2em;
-  font-weight: normal;
-}
-
-/*link*/
-a {
-  color: #64FFDA;
-  text-decoration: none;
-  transition: color 0.3s ease; /* Smooth transition */
-}
-
-a:hover {
-  color: #909090; /* Change to white on hover */
-  text-decoration: none;
-}
-
-/* Button Styles */
-.button {
+  background: none;
   background-color: transparent;
-  border: 1px solid #00b4d8;
-  color: #90e0ef;
-  padding: 10px 20px;
-  border-radius: 5px;
-  display: inline-block;
-  margin-top: 10px;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  box-shadow: none;
 }
-
-.button:hover {
-  background-color: #00b4d8 ;
-  color: #121212;
-  text-decoration: none;
-}
-
-#main-content {
-  margin: 0 auto;         
-  max-width: 800px;        
-  color: #FFFFFF;
-  font-size: 1.2em;
-  font-family: 'Georgia', serif;
-  line-height: 1.6;
-  text-align: center;     
-  padding: 20px;
-}
-
-#main-content ol {
-  display: block;          
-  text-align: left;       
-  margin: 0 center;          
-  padding: 0;
-  width: 80%;              
-  max-width: 500px;
-}
-
-#main-content ol li {
-  list-style-position: inside;
-  text-align: left;
-}
-
-
-
-/* Sidebar Styles */
-#sidebar {
-  width: 280px;
-  float: center;
-  background-color: transparent;
-  border-left: 1px solid transparent;
-  padding-left: 20px;
-}
-
-#sidebar a {
-  display: block;
-  margin-bottom: 5px;
-}
-
-/* Footer */
-footer {
-  background-color: transparent ; 
-  border-top: 1px solid transparent;
-  padding: 10px 0;
-  text-align: center;
-  color: #FFFFFF;
+/* 🎨 Your custom background */
+body {
+  background: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/eto_na_talaga%5B1%5D.gif?raw=true") no-repeat center center fixed;
+  background-size: cover;
 }
