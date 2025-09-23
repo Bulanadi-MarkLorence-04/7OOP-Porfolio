@@ -1,9 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-
-body {
-background: url ('{{ "/Images/eto_na_talaga[1].gif" | relative_url }}') no-repeat center center fixed;
-background-size: cover;
-  }
