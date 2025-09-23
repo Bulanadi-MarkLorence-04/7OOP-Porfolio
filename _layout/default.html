@@ -3,24 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- Load Architect font -->
   <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+
+  <!-- Load custom CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header>
-    <h1>{{ site.title }}</h1>
-    <nav>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/about' | relative_url }}">About</a>
-    </nav>
-  </header>
+  <div class="container">
+    <header>
+      <h1>{{ site.title }}</h1>
+      <p class="description">{{ site.description }}</p>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about' | relative_url }}">About</a>
+      </nav>
+    </header>
 
-  <main>
-    {{ content }}
-  </main>
+    <main>
+      {{ content }}
+    </main>
 
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-  </footer>
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </footer>
+  </div>
 </body>
 </html>
