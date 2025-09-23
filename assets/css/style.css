@@ -1,12 +1,68 @@
+/* Global Styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
   margin: 0;
-  background: #0a0a23;
-  color: #fff;
+  padding: 0;
+  background: #fff;
+  color: #333;
 }
 
+/* Headers use Architect Font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Architects Daughter", cursive;
+  font-weight: normal;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: #222;
+}
+
+/* Header Bar */
 header {
-  background: #1e90ff;
+  background: #f4f4f4;
+  border-bottom: 1px solid #ddd;
   padding: 1rem;
   text-align: center;
+}
+
+header h1 {
+  font-family: "Architects Daughter", cursive;
+  font-size: 2rem;
+  margin: 0;
+}
+
+nav a {
+  color: #333;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main Content */
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* Footer */
+footer {
+  background: #f4f4f4;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Code Blocks */
+code {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
