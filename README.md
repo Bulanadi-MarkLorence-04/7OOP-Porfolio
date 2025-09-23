@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # 7OOP PORTFOLIO LAB TASK
 <p align="center">
   <img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/CC_20250825_170011%5B1%5D.png?raw=true" width="190" height="180"/>
