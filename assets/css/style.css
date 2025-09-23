@@ -1,18 +1,12 @@
----
----
-
-@import "{{ site.theme }}"; 
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0a0a23;
+  color: #fff;
+}
 
 header {
-  background: none;
-  background-color: transparent;
-  box-shadow: none;
-}
-/* 🎨 Your custom background */
-body {
-  background: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/eto_na_talaga%5B1%5D.gif?raw=true") no-repeat center center fixed;
-  background-size: cover;
-}
-body {
-  border: 5px solid red !important;
+  background: #1e90ff;
+  padding: 1rem;
+  text-align: center;
 }
