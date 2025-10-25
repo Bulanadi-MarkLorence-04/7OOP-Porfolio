@@ -14,7 +14,7 @@
 
 ## Problem 2. Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc… for this  task
 
-<img src="" width="700" height="700" /> 
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/midtermlabtask1/pics/lt1p2.PNG?raw=true" width="700" height="700" /> 
 
 ### Sample Code:
 
