@@ -6,20 +6,44 @@
 
 ### **Sample Code:**
 
-<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/midtermlabtask1/pics/lt1p1c1.PNG?raw=true" width="700" height="700" />
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/midtermlabtask1/pics/lt1p1c1.PNG?raw=true" width="700" height="700" /> 
+
 ### Output
+
 <img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/midtermlabtask1/pics/lt1p1s1.PNG?raw=true" width="700" height="700" />
 
 ## Problem 2. Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc… for this  task
 
-<img src="" />
+<img src="" width="700" height="700" /> 
 
 ### Sample Code:
+
+<img src="" width="700" height="700" /> 
+
+### Output
+
+<img src="" width="700" height="700" /> 
 
 ## Problem 3. Book Reservation; Accept User Input
 
+<img src="" width="700" height="700" /> 
+
 ### Sample Code:
+
+<img src="" width="700" height="700" /> 
+
+### Output
+
+<img src="" width="700" height="700" /> 
 
 Problem 4. Day Identifier
 
+<img src="" width="700" height="700" /> 
+
 ### Sample Code:
+
+<img src="" width="700" height="700" /> 
+
+### Output
+
+<img src="" width="700" height="700" /> 
