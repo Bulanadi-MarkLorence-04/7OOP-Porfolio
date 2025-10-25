@@ -54,7 +54,7 @@
 
 ### 🧪 FINALTERM
 
-**FINALTERM LAB TASK 1:** [🖥️ Encapsulation](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/e895d5231feef9a7d43b270ce4025c8220397908/MidTermLabTask5)
+**FINALTERM LAB TASK 1:** [🖥️ Encapsulation](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/70df3cdbdbf56e69b16d539c6350225e209336fe/FiNalTerm1)
 
 --- 
 ## Area of Interest:
