@@ -2,4 +2,5 @@ title: Bulanadi, Mark Lorence
 description: From BSCS-C204
 url: "https://bulanadi-markLorence-04.github.io"
 baseurl: "/7OOP-Porfolio"
-remote_theme: jekyll-theme-architect
+theme: jekyll-theme-architect
+
