@@ -48,11 +48,13 @@
 
 **MIDTERM LAB TASK 3:** [🖥️ Python List Collections](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/d45c88fbdd619b22a0ecd475ba2b5e1ce371cec6/MidTermLabTask3)
 
-**MIDTERM LAB TASK 4:** [🖥️ Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+**MIDTERM LAB TASK 4:** [🖥️ Using Dictionary Collections](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
 
-**MIDTERM LAB TASK 5:** [🖥️ Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+**MIDTERM LAB TASK 5:** [🖥️ Creating Class and Instantiating Objects](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/e895d5231feef9a7d43b270ce4025c8220397908/MidTermLabTask5)
 
-Coming Soon...🔥 
+### 🧪 FINALTERM
+
+**FINALTERM LAB TASK 1:** [🖥️ Creating Class and Instantiating Objects](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/e895d5231feef9a7d43b270ce4025c8220397908/MidTermLabTask5)
 
 --- 
 ## Area of Interest:
