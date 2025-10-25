@@ -1,4 +1,10 @@
 # MIDTERM LAB TASK 4: Using Dictionary Collection
 
 ## Problem 1:
-<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/MidTermLabTask3/PiC/lt3p1s1.PNG?raw=true" width="900" height="900" />
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/MidTermLabTask4/pIc/lt4p1.PNG?raw=true" width="900" height="900" />
+
+## Sample Code:
+<img src="" width="900" height="900" />
+
+## Output:
+<img src="" width="900" height="900" />
