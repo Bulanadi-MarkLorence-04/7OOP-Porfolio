@@ -40,7 +40,17 @@
 ## 💻 My Projects  
 
 ### 🧪 MIDTERM  
-**MIDTERM LAB TASK 1:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+**MIDTERM LAB PAIRED TASK :** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+
+**MIDTERM LAB TASK 1:** [📂 ](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+
+**MIDTERM LAB TASK 2:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+
+**MIDTERM LAB TASK 3:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+
+**MIDTERM LAB TASK 4:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+
+**MIDTERM LAB TASK 5:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
 
 Coming Soon...🔥 
 
