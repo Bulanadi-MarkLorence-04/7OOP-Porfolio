@@ -16,7 +16,7 @@
 ## Sample Code:
 
 <img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/MidTermLabTask2/IM/lt2p2c2.PNG?raw=true" width="700" height="700" />
-<img src="" width="700" height="700" />
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/MidTermLabTask2/IM/lt2p2c2.0.PNG?raw=true" width="700" height="700" />
 
 ## Output:
 
