@@ -12,5 +12,5 @@
 <img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/FiNalTerm1/PICS/flt1p1c2.PNG?raw=true" width="900" height="900" />
 
 ## Output:
-<img src="" width="900" height="900" />
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/FiNalTerm1/PICS/flt1p1s1.PNG?raw=true" width="900" height="900" />
 
