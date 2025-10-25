@@ -7,4 +7,4 @@
 <img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/MidTermLabTask5/PiCs/lt5p1c1.PNG?raw=true" width="900" height="900" />
 
 ## Output:
-<img src="" width="900" height="900" />
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/MidTermLabTask5/PiCs/lt5p1s1.PNG?raw=true" width="900" height="900" />
