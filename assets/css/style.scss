@@ -4,6 +4,6 @@
 @import "{{ site. theme }}";
 
 body {
-  background: url("/assets/images/eto_na_talaga_[1].gif") center center fixed;
-  background-size: cover;
+  background: url("/assets/images/eto_na_talaga_[1].gif") center center fixed !important;
+  background-size: cover !important;
 }
