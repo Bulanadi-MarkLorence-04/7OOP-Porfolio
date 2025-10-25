@@ -42,7 +42,7 @@ Problem 4. Day Identifier
 
 ### Sample Code:
 
-<img src="" width="700" height="700" /> 
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/midtermlabtask1/pics/lt1p4c4.PNG?raw=true" width="700" height="700" /> 
 
 ### Output
 
