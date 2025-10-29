@@ -40,21 +40,21 @@
 ## 💻 My Projects  
 
 ### 🧪 MIDTERM  
-**MIDTERM LAB PAIRED TASK :** [🖥️ Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/7876030af6e041d477e4620f160509f0cb3064ce/MIDTERM%20ACT%201)
+**MIDTERM LAB PAIRED TASK :** [🖥️ Object Oriented Analysis](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/MIDTERM ACT 1)
 
-**MIDTERM LAB TASK 1:** [🖥️Escape sequence, User input, Placeholders, and Conditonal](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/9c5da6a2fe9d69c3ec5ff47ebe2391fd5a8308b9/midtermlabtask1)
+**MIDTERM LAB TASK 1:** [🖥️Escape sequence, User input, Placeholders, and Conditonal](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/)
 
-**MIDTERM LAB TASK 2:** [🖥️ Loops and Fuctions](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/7c91ce2a790367f251530e2f7ce4e6ccfe99c239/MidTermLabTask2)
+**MIDTERM LAB TASK 2:** [🖥️ Loops and Fuctions](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/MidTermLabTask2)
 
-**MIDTERM LAB TASK 3:** [🖥️ Python List Collections](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/d45c88fbdd619b22a0ecd475ba2b5e1ce371cec6/MidTermLabTask3)
+**MIDTERM LAB TASK 3:** [🖥️ Python List Collections](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/MidTermLabTask3)
 
-**MIDTERM LAB TASK 4:** [🖥️ Using Dictionary Collections](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/118f73059d06d2c26270f47ae91ba75117c50609/MidTermLabTask4)
+**MIDTERM LAB TASK 4:** [🖥️ Using Dictionary Collections](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/MidTermLabTask4)
 
-**MIDTERM LAB TASK 5:** [🖥️ Creating Class and Instantiating Objects](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/e895d5231feef9a7d43b270ce4025c8220397908/MidTermLabTask5)
+**MIDTERM LAB TASK 5:** [🖥️ Creating Class and Instantiating Objects](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/MidTermLabTask5)
 
 ### 🧪 FINALTERM
 
-**FINALTERM LAB TASK 1:** [🖥️ Encapsulation](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/70df3cdbdbf56e69b16d539c6350225e209336fe/FiNalTerm1)
+**FINALTERM LAB TASK 1:** [🖥️ Encapsulation](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/FiNalTerm1)
 
 --- 
 ## Area of Interest:
