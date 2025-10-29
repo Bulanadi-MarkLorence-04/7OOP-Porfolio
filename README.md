@@ -40,7 +40,7 @@
 ## 💻 My Projects  
 
 ### 🧪 MIDTERM  
-**MIDTERM LAB PAIRED TASK :** [🖥️ Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
+**MIDTERM LAB PAIRED TASK :** [🖥️ Object Oriented Analysis](https://bulanadi-marklorence-04.github.io/7OOP-Porfolio/MIDTERM-ACT-1)
 
 **MIDTERM LAB TASK 1:** [🖥️Escape sequence, User input, Placeholders, and Conditonal](https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/tree/9c5da6a2fe9d69c3ec5ff47ebe2391fd5a8308b9/midtermlabtask1)
 
